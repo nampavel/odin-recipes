@@ -1,0 +1,12 @@
+* {
+    background-color: aqua;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+h2 {
+    background-color: rgb(74, 153, 161);
+}
